@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,java,cpp,vscode,visualstudio,eclipse,figma&perline=5)](https://skillicons.dev)
 
 
 
