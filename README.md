@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
+<img src="images/header.svg" alt="Header Image" width="100%">
 
 
 <picture>
