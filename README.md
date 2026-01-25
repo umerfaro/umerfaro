@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/muhammadumerfarooqofficial/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/etherealumer/?igsh=MXAzeWR1bng0NXBrYw%3D%3D">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="files/Umerfarooq_CV.pdf" download>
     <img src="https://img.shields.io/badge/View_CV-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
   </a>
