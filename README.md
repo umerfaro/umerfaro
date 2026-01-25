@@ -1,5 +1,9 @@
  <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 
+
+<picture>
+  <img align="right" src="images/right.gif" width="250px">
+</picture>
  
 - 👨‍💻 Junior Software Engineer (Flutter) with hands-on experience in **Flutter**, **Firebase**, **backend integrations**, and **real-time systems**
 - 🚀 I automate mobile releases using **Fastlane + GitHub Actions (CI/CD)** and follow **Clean Architecture**
