@@ -2,7 +2,7 @@
 
 
 <picture>
-  <img align="right" src="images/right.gif" width="250px">
+  <img align="right" src="images/right2.gif" width="250px">
 </picture>
  
 - 👨‍💻 Junior Software Engineer (Flutter) with hands-on experience in **Flutter**, **Firebase**, **backend integrations**, and **real-time systems**
