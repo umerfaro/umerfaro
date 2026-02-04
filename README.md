@@ -68,7 +68,7 @@
 
 </div>
 
-## Stats
+<!-- ## Stats
 
 <div align="center">
 
@@ -77,5 +77,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfaro&theme=dark&cache_seconds=86400&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
-</div>
+</div> -->
 
