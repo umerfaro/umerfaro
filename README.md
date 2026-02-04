@@ -73,8 +73,8 @@
 <div align="center">
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umerfaro&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfaro&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umerfaro&show_icons=true&theme=dark&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerfaro&theme=dark&cache_seconds=86400&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 </div>
