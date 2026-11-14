@@ -5,10 +5,10 @@
   <img align="right" src="images/right2.gif" width="250px">
 </picture>
  
-- 👨‍💻 Junior Software Engineer (Flutter) with hands-on experience in **Flutter**, **Firebase**, **backend integrations**, and **real-time systems**
-- 🚀 I automate mobile releases using **Fastlane + GitHub Actions (CI/CD)** and follow **Clean Architecture**
-- 🧰 Comfortable across **mobile, cloud, APIs, and DevOps tooling** (Docker, GitHub Actions)
-- 💬 Ask me anything about **Flutter, Firebase, CI/CD pipelines, REST APIs**
+- 👨‍💻 Software Developer (Full-Stack) with hands-on experience in **React**, **Next.js**, **Node.js/Express**, **SQL**, and **REST APIs**
+- 🚀 I build AI-powered apps — **SecureDesk AI**, **AyroChat** (LLM-driven WhatsApp automation), plus **Budget IQ** & **Dump** live on the Play Store
+- 🧰 Strong foundations in **OOP**, **SOLID**, **Data Structures & Algorithms**, and **Clean Architecture** — with **Flutter**, **Firebase**, and **CI/CD (Fastlane + GitHub Actions)** in the toolkit
+- 💬 Ask me anything about **React, Next.js, Node.js, SQL, REST APIs, Flutter, Firebase**
 - 📫 How to reach me: muhammadufarooq.dev@gmail.com
 - 😄 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://icy-salmon-wren.host.loki.build/)
 - ⚡ Fun fact: I'm Techniminist
